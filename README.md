@@ -35,7 +35,6 @@ Then:
   npm start
   ```
   
-  
   ```
 
 The app should be available on <http://localhost:8080>
